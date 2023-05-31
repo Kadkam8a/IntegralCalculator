@@ -1,5 +1,5 @@
 # Integral Calculator
-Second practice of High Performance Computing at National [Autonomus University of Mexico](https://www.unam.mx/) (2023-2)
+Third practice of High Performance Computing at National [Autonomus University of Mexico](https://www.unam.mx/) (2023-2)
 
 
 Karime Ochoa Jacinto ([Kadkam8a](https://github.com/Kadkam8a))
