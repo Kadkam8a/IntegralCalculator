@@ -18,7 +18,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 Parallel computing allows us to segment a determinate task into small pieces to distribute them between processors in order to make the process faster. 
 
-The present project calculates the Riemann integral of $x^2$ with a barber algorithm as follows:
+The present project (a modification of the one made in class) calculates the Riemann integral of $x^2$ with a barber algorithm as follows:
 1. The user determines the values for: 
     - $a$: lower end of interval. 
     - $b$: upper end of interval.
