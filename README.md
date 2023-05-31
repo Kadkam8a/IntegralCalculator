@@ -31,7 +31,7 @@ mpicc \-o name main.c
 ```
 To run the code 
 ```
-mpiexec -n number_of_processors ./try a b segments n_partitions
+mpiexec -n number_of_processors ./name a b segments n_partitions
 ```
 ## Example
 For this example the inputs were:
